@@ -11,7 +11,7 @@ The dataset used in this project is the largest available dataset for analyzing 
 ### Dataset Details
 
 - **Matrix Dimensions**: 174 rows x 452 columns
-- **Subjects**: 89 patients with Alzheimer’s disease, 85 healthy individuals
+- **Participants**: 89 patients with Alzheimer’s disease, 85 healthy individuals
 - **Tests**: 25 different handwriting tasks (Copying words and text, Drawing lines and shapes, Signature imitation etc.)
 - **Features**: Each test comprises 18 numerical variables such as Writing speed, Total time taken, Pressure applied to the paper and more.
 - **Labels**: Binary classification with labels:
