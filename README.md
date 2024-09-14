@@ -6,7 +6,7 @@ Team project for the Masters' degree course «Bio-Data Analysis» (2024). This p
 
 ## Dataset Description
 
-The dataset used in this project is the largest available dataset for analyzing handwriting patterns in the context of Alzheimer's disease, as reported by Clica et al. (2022). It consists of a matrix with dimensions 174 x 452 and includes data from 89 patients diagnosed with Alzheimer’s disease and 85 healthy individuals.
+The DARWIN dataset is a comprehensive collection designed for research and development in handwriting analysis and biometric recognition. It includes detailed data from various handwriting tasks performed by individuals, providing a rich resource for developing and testing machine learning models.{https://github.com/your-repo-link}{DARWIN Dataset GitHub Repository}
 
 ### Dataset Details
 
