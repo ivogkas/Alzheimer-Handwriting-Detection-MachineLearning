@@ -2,7 +2,7 @@
 
 
 ## Overview
-Team project for the Masters' degree course «Bio-Data Analysis» (2024). This project focuses on comparing various machine learning models to assess their effectiveness in diagnosing Alzheimer's disease through handwriting analysis. By leveraging data that captures the handwriting patterns of both patients with Alzheimer’s disease and healthy individuals, the goal is to identify the most suitable model for detecting this condition. The primary aim of this endeavor is to enhance the early and accurate diagnosis of Alzheimer’s disease using a non-invasive method, thereby contributing to a better understanding and management of the disease.
+Team project for the Masters' degree course «Bio-Data Analysis» (2024). This project focuses on comparing various machine learning models to assess their effectiveness in diagnosing Alzheimer's disease through handwriting analysis. By leveraging data that captures the handwriting patterns of both patients with Alzheimer’s disease and healthy individuals, the goal is to identify the most suitable model for detecting this condition.
 
 ## Dataset Description
 
