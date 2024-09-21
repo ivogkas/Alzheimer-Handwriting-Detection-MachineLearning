@@ -6,7 +6,8 @@ Team project for the Masters' degree course «Bio-Data Analysis» (2024). This p
 
 ## Dataset Description
 
-The [DARWIN dataset](https://archive.ics.uci.edu/dataset/732/darwin) is a comprehensive collection designed for research and development in handwriting analysis and biometric recognition. It includes detailed data from various handwriting tasks performed by individuals, providing a rich resource for developing and testing machine learning models.
+The [DARWIN dataset](https://archive.ics.uci.edu/dataset/732/darwin) was created to allow researchers to improve the existing machine learning methodologies for the prediction of Alzheimer's disease via handwriting analysis.. It includes detailed data from various handwriting tasks performed by individuals, providing a rich resource for developing and testing machine learning models.
+
 
 ### Dataset Details
 
